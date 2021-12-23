@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="100px"/></a>
+<a href="#"><img width="100%" height="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sasiru</h1>
 Here are some ideas to get you started:
