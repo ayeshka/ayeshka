@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/ayeshka/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ayeshka">
 </a>
 <a href="https://github.com/ayeshka?tab=followers">
